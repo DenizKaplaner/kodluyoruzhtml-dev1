@@ -1,2 +1,2 @@
-# kodluyoruzhtml-dev1
-Kodluyoruzhtmlöğreniyorum
+# HTML öğreniyorum 
+* 1. ÖDEV
