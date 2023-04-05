@@ -1,2 +1,2 @@
 # HTML öğreniyorum 
-* 1. ÖDEV
+* ÖDEV 1
